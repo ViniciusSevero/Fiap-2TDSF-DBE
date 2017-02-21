@@ -1,0 +1,14 @@
+package br.com.fiap.teste;
+
+import br.com.fiap.bo.CursoBOStub;
+
+public class CursoTeste {
+
+	public static void main(String[] args) {
+		try{
+			CursoBOStub bo = new CursoBOStub();
+		}
+
+	}
+
+}

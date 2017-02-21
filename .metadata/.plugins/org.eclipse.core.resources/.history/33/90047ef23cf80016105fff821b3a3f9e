@@ -1,0 +1,23 @@
+package br.com.fiap.teste;
+
+import br.com.fiap.bo.CursoBOStub;
+import br.com.fiap.bo.CursoBOStub.CalcularMediaResponse;
+import br.com.fiap.bo.CursoBOStub.CalcularPSAnual;
+
+public class CursoPSAnualTeste {
+
+	public static void main(String[] args) {
+		try{
+			CursoBOStub bo = new CursoBOStub();
+			CalcularPSAnual params = new CalcularPSAnual();
+			params.setMedia(10);
+			params.setAm(10);
+			params.setNac(10);
+			CalcularMediaResponse resp = bo.calcularPSAnual(params);
+		}catch(Exception e){
+			e.printStackTrace();
+		}
+
+	}
+
+}

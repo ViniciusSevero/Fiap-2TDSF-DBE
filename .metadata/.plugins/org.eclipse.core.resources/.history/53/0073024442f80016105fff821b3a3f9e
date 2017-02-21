@@ -1,0 +1,13 @@
+package br.com.fiap.testes;
+
+import br.com.fiap.inventario.EstoqueStub;
+
+public class EstoqueTeste {
+	public static void main(String[] args) {
+		try{
+			EstoqueStub bo = new EstoqueStub();
+		}catch(Exception e){
+			e.printStackTrace();
+		}
+	}
+}

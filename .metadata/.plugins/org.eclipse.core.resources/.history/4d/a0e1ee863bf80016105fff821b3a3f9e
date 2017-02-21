@@ -1,0 +1,21 @@
+package br.com.fiap.teste;
+
+import org.apache.axis2.AxisFault;
+
+import br.com.fiap.bo.CursoBOStub;
+import br.com.fiap.bo.CursoBOStub.CalcularMedia;
+
+public class CursoTeste {
+
+	public static void main(String[] args) {
+		try{
+			CursoBOStub bo = new CursoBOStub();
+			CalcularMedia valores = new CalcularMedia();
+			bo.calcularMedia();
+		}catch(AxisFault e){
+			e.printStackTrace();
+		}
+
+	}
+
+}

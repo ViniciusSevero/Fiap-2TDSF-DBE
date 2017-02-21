@@ -1,0 +1,14 @@
+package br.com.fiap.bo;
+
+public class CursoPSAnualTeste {
+
+	public static void main(String[] args) {
+		try{
+			
+		}catch(Exception e){
+			e.printStackTrace();
+		}
+
+	}
+
+}
