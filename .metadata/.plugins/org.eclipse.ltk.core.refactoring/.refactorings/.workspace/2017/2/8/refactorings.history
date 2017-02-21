@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;0-WebserviceSOAP-provider&apos; to &apos;04-WebserviceSOAP-provider&apos;" description="Rename resource &apos;0-WebserviceSOAP-provider&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/0-WebserviceSOAP-provider" name="04-WebserviceSOAP-provider" stamp="1487677280993" updateReferences="true"/>
+</session>

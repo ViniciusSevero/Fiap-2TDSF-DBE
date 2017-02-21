@@ -1,0 +1,5 @@
+package br.com.fiap.inventario;
+
+public class Estoque {
+	private static Produ
+}

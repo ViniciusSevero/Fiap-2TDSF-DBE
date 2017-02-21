@@ -1,0 +1,10 @@
+package br.com.fiap.inventario;
+
+import br.com.fiap.beans.ProdutoTO;
+
+public class Estoque {
+	
+	public ProdutoTO buscarProduto(String codPoduto){
+		
+	}
+}
