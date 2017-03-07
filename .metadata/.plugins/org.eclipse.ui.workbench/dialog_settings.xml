@@ -8,27 +8,21 @@
 		<item value="250" key="dialogHeight"/>
 		<item value="350" key="dialogWidth"/>
 		<list key="textEntries">
-			<item value="1"/>
-			<item value="1"/>
 		</list>
 		<list key="orderedElements">
-			<item value="org.eclipse.jdt.ui.edit.text.java.generate.tostring"/>
-			<item value="org.eclipse.jdt.ui.edit.text.java.create.getter.setter"/>
 		</list>
 		<list key="orderedProviders">
-			<item value="org.eclipse.ui.commands"/>
-			<item value="org.eclipse.ui.commands"/>
 		</list>
 		<list key="textArray">
-			<item value="tostr"/>
-			<item value="gett"/>
 		</list>
 	</section>
 	<section name="NewWizardAction">
-		<item value="org.eclipse.jst.ws.internal.consumption.ui.wizard.client.clientwizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<item value="org.eclipse.wb.rcp.swt.SWTApplicationWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="org.eclipse.jpt.dbws"/>
-			<item value="org.eclipse.jst.ws.ui.new"/>
+			<item value="org.eclipse.wb"/>
+			<item value="org.eclipse.wb/org.eclipse.wb.rcp"/>
+			<item value="org.eclipse.wb/org.eclipse.wb.rcp/org.eclipse.wb.internal.rcp.databinding"/>
+			<item value="org.eclipse.wb/org.eclipse.wb.rcp/org.eclipse.wb.rcp.swt"/>
 		</list>
 	</section>
 </section>

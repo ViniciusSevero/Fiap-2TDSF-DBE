@@ -22,4 +22,9 @@
 <fullyQualifiedTypeName name="org.apache.axis2.AxisFault"/>
 <fullyQualifiedTypeName name="br.com.fiap.bo.PratoBOStub.Prato"/>
 <fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="org.eclipse.swt.widgets.MessageBox"/>
+<fullyQualifiedTypeName name="org.eclipse.swt.SWT"/>
+<fullyQualifiedTypeName name="javax.swing.JDialog"/>
+<fullyQualifiedTypeName name="javax.swing.JFrame"/>
 </qualifiedTypeNameHistroy>

@@ -43,3 +43,5 @@
 127.0.0.1 - - [07/Mar/2017:11:07:49 -0300] "GET / HTTP/1.1" 404 1000
 127.0.0.1 - - [07/Mar/2017:11:08:00 -0300] "POST /05-WebserviceSOAP-provider-banco/services/PratoBO.PratoBOHttpSoap12Endpoint/ HTTP/1.1" 200 332
 127.0.0.1 - - [07/Mar/2017:11:36:46 -0300] "POST /05-WebserviceSOAP-provider-banco/services/PratoBO.PratoBOHttpSoap12Endpoint/ HTTP/1.1" 200 332
+127.0.0.1 - - [07/Mar/2017:11:57:03 -0300] "GET / HTTP/1.1" 404 1000
+127.0.0.1 - - [07/Mar/2017:11:57:37 -0300] "POST /05-WebserviceSOAP-provider-banco/services/PratoBO.PratoBOHttpSoap12Endpoint/ HTTP/1.1" 200 535
