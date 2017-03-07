@@ -1,0 +1,15 @@
+package br.com.fiap.teste;
+
+import br.com.fiap.bo.PratoBOStub;
+import br.com.fiap.bo.PratoBOStub.Cadastrar;
+
+public class Teste {
+
+	public static void main(String[] args) {
+		PratoBOStub stub = new PratoBOStub();
+		Cadastrar params = new Cadastrar();
+		stub.cadastrar(params);
+
+	}
+
+}

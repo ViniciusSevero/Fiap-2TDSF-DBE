@@ -1,0 +1,22 @@
+package br.com.fiap.entity;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.SequenceGenerator;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="TB_PRATO")
+@SequenceGenerator(name="SEQ_PRATO",sequenceName="SEQ_PRATO",allocationSize=1)
+public class Prato {
+	@Id @GeneratedValue(strategy=GenerationType.SEQUENCE,generator="SEQ_PRATO")
+	private int codigo;
+	
+	private String nome;
+	
+	private String descricao;
+	
+	private float preco;
+}

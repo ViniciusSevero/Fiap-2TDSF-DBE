@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="javax.persistence.SequenceGenerator"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+<fullyQualifiedTypeName name="javax.persistence.Column"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="br.com.fiap.dao.GenericDAO"/>
+<fullyQualifiedTypeName name="br.com.fiap.dao.GenericDAOImpl"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="br.com.fiap.dao.PratoDAO"/>
+<fullyQualifiedTypeName name="br.com.fiap.dao.PratoDAOImpl"/>
+<fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+<fullyQualifiedTypeName name="javax.persistence.EntityManagerFactory"/>
+<fullyQualifiedTypeName name="br.com.fiap.singleton.EntityManagerFactorySingleton"/>
+<fullyQualifiedTypeName name="br.com.fiap.exception.CommitErrorException"/>
+<fullyQualifiedTypeName name="br.com.fiap.entity.Prato"/>
+<fullyQualifiedTypeName name="br.com.fiap.bo.PratoBOStub"/>
+<fullyQualifiedTypeName name="br.com.fiap.bo.PratoBOStub.Cadastrar"/>
+<fullyQualifiedTypeName name="org.apache.axis2.AxisFault"/>
+<fullyQualifiedTypeName name="br.com.fiap.bo.PratoBOStub.Prato"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+</qualifiedTypeNameHistroy>

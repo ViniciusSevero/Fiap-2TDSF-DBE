@@ -1,0 +1,11 @@
+package br.com.fiap.entity;
+
+public class Prato {
+	private int codigo;
+	
+	private String nome;
+	
+	private String descricao;
+	
+	private float preco;
+}
