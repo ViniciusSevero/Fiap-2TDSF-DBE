@@ -1,0 +1,14 @@
+package br.com.fiap.to;
+
+import java.util.HashMap;
+
+public class VeiculoBO {
+	
+	private static HashMap<Integer, VeiculoTO> veiculos = new HashMap<>();
+	private static int sequence = 1;
+	
+	public void cadastrar(VeiculoTO veiculo){
+		veiculos.put(sequence++, veiculo);
+	}
+
+}

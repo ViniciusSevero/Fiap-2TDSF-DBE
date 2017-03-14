@@ -1,0 +1,8 @@
+package br.com.fiap.to;
+
+public class VeiculoTO {
+	private int codigo;
+	private String modelo;
+	private String marca;
+	private double preco;
+}

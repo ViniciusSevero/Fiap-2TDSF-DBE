@@ -159,13 +159,13 @@ public class Tela {
 		lblPreo.setText("Pre\u00E7o");
 		
 		txtNomeBusca = new Text(shell, SWT.BORDER);
-		txtNomeBusca.setBounds(270, 92, 76, 21);
+		txtNomeBusca.setBounds(270, 92, 156, 21);
 		
 		txtDescricaoBusca = new Text(shell, SWT.BORDER);
-		txtDescricaoBusca.setBounds(270, 125, 76, 21);
+		txtDescricaoBusca.setBounds(270, 125, 156, 21);
 		
 		txtPrecoBusca = new Text(shell, SWT.BORDER);
-		txtPrecoBusca.setBounds(270, 166, 76, 21);
+		txtPrecoBusca.setBounds(270, 166, 156, 21);
 
 		
 	}

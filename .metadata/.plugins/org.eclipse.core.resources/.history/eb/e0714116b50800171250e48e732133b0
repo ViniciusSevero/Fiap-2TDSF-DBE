@@ -1,0 +1,9 @@
+package br.com.fiap.to;
+
+import java.util.HashMap;
+
+public class VeiculoBO {
+	
+	private static HashMap<Integer, VeiculoTO>
+
+}

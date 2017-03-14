@@ -9,7 +9,6 @@
 <fullyQualifiedTypeName name="java.io.Serializable"/>
 <fullyQualifiedTypeName name="br.com.fiap.dao.GenericDAO"/>
 <fullyQualifiedTypeName name="br.com.fiap.dao.GenericDAOImpl"/>
-<fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="br.com.fiap.dao.PratoDAO"/>
 <fullyQualifiedTypeName name="br.com.fiap.dao.PratoDAOImpl"/>
 <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
@@ -17,7 +16,6 @@
 <fullyQualifiedTypeName name="br.com.fiap.singleton.EntityManagerFactorySingleton"/>
 <fullyQualifiedTypeName name="br.com.fiap.exception.CommitErrorException"/>
 <fullyQualifiedTypeName name="br.com.fiap.entity.Prato"/>
-<fullyQualifiedTypeName name="br.com.fiap.bo.PratoBOStub"/>
 <fullyQualifiedTypeName name="br.com.fiap.bo.PratoBOStub.Cadastrar"/>
 <fullyQualifiedTypeName name="org.apache.axis2.AxisFault"/>
 <fullyQualifiedTypeName name="br.com.fiap.bo.PratoBOStub.Prato"/>
@@ -27,4 +25,8 @@
 <fullyQualifiedTypeName name="org.eclipse.swt.SWT"/>
 <fullyQualifiedTypeName name="javax.swing.JDialog"/>
 <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+<fullyQualifiedTypeName name="br.com.fiap.bo.PratoBOStub"/>
+<fullyQualifiedTypeName name="br.com.fiap.bo.PratoBOStub.Buscar"/>
+<fullyQualifiedTypeName name="br.com.fiap.bo.PratoBOStub.BuscarResponse"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
 </qualifiedTypeNameHistroy>

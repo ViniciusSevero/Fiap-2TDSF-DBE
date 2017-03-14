@@ -1,0 +1,12 @@
+package br.com.fiap.resource;
+
+
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+import javax.ws.rs.Produces;
+
+@Path("/veiculo")
+public class VeiculoResource {
+	@GET
+	@Produces(javax.ws.rs.core.MediaType)
+}
