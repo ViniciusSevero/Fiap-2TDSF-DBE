@@ -63,7 +63,7 @@ public class VeiculoResource {
 	@PUT
 	@Path("/{id}")
 	@Consumes(MediaType.APPLICATION_JSON)
-	public Response cadastrar(VeiculoTO veiculo, @PathParam("id")int id){
+	public Response alterar(VeiculoTO veiculo, @PathParam("id")int id){
 		veiculo.setCodigo(id);
 		bo.alterar(veiculo);
 		return Response.ok().build();
