@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;07-WebserviceRestfull-client&apos; to &apos;08-WebserviceRestfull-client&apos;" description="Rename resource &apos;07-WebserviceRestfull-client&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/07-WebserviceRestfull-client" name="08-WebserviceRestfull-client" stamp="1490103512864" updateReferences="true"/>
+</session>

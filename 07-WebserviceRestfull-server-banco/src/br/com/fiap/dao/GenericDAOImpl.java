@@ -9,7 +9,7 @@ import br.com.fiap.exception.CommitErrorException;
 
 public class GenericDAOImpl<T,K> implements GenericDAO<T, K> {
 
-	private EntityManager manager;
+	protected EntityManager manager;
 	private Class<T> clazz;
 	
 	public GenericDAOImpl(EntityManager manager) {

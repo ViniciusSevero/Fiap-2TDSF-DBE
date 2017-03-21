@@ -1,0 +1,15 @@
+package br.com.fiap.teste;
+
+import com.sun.jersey.api.client.Client;
+import com.sun.jersey.api.client.WebResource;
+
+public class Teste {
+
+	public static void main(String[] args) {
+		//Listar todos
+		Client client = Client.create();
+		WebResource resouce = client.resource("http://localhost:8080/07-WebserviceRestfull-server-banco/rest/compra");
+
+	}
+
+}

@@ -1,9 +1,0 @@
-package br.com.fiap.bo;
-
-import br.com.fiap.entity.Prato;
-
-public class PratoBO {
-	public void cadastrar(Prato prato){
-		
-	}
-}

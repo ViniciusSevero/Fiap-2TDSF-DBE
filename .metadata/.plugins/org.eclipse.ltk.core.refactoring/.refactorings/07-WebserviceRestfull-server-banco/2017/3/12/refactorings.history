@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;br.com.fiap.to&apos; to &apos;08-WebserviceRestfull-client/src&apos;&#x0D;&#x0A;- Original project: &apos;07-WebserviceRestfull-server-banco&apos;&#x0D;&#x0A;- Destination element: &apos;08-WebserviceRestfull-client/src&apos;&#x0D;&#x0A;- Original element: &apos;07-WebserviceRestfull-server-banco/src/br.com.fiap.to&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=08-WebserviceRestfull-client/src" element1="/src&lt;br.com.fiap.to" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1490104167871" version="1.0"/>
+</session>

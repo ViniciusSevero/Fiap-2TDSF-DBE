@@ -1,0 +1,12 @@
+package br.com.fiap.teste;
+
+import com.sun.jersey.api.client.Client;
+
+public class Teste {
+
+	public static void main(String[] args) {
+		Client client = Client.create();
+
+	}
+
+}
