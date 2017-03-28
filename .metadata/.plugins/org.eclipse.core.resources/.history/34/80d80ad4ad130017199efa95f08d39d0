@@ -1,0 +1,32 @@
+package br.com.fiap.teste;
+
+import java.util.Scanner;
+
+import br.com.fiap.to.CompraTO;
+
+public class CompraTeste {
+	
+	private static Scanner scanner = new Scanner(System.in);
+
+	public static void main(String[] args) {
+		
+	}
+	
+	public static void getMenu(){
+		System.out.println("1 - Cadastrar");
+		System.out.println("2 - Listar");
+		System.out.println("3 - Alterar");
+		System.out.println("4 - Excluir");
+		System.out.println("0 - Sair");
+	}
+	
+	public static void cadastrar(){
+		CompraTO to = new CompraTO();
+		System.out.println("Descrição: ");
+		to.setDescricao(scanner.next());
+		System.out.println("Valor: ");
+		to.setValor(scanner.nextDouble());
+	}
+	
+
+}

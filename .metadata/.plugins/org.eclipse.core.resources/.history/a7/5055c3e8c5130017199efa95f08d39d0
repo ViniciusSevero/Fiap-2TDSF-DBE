@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:h="http://java.sun.com/jsf/html"> 
+
+<h:head></h:head> 
+<body> 
+	<h1>Cadastrar Compra!</h1>
+	<h:form>
+		<h:panelGrid columnClasses="2">
+			<h:outputLabel value="Descrição" />
+			<h:inputText value="#{compraBean.compra.descricao}" />
+			
+			<h:outputLabel value="Valor" />
+			<h:inputSecret value="#{compraBean.compra.valor}" />
+			
+			<h:commandButton action="#{compraBean.cadastrar()}" value="Cadatrar" />
+		</h:panelGrid>
+		
+		<h:dataTable value="#{compraBean.compras}" var="compra">
+			<h:column>
+				<f:facet name="header">
+					Código
+				</f:facet>
+				#{compra.codigo}
+			</h:column>
+			<h:column>
+				<f:facet name="header">
+					Código
+				</f:facet>
+				#{compra.codigo}
+			</h:column>
+			<h:column>
+				<f:facet name="header">
+					Código
+				</f:facet>
+				#{compra.codigo}
+			</h:column>
+		</h:dataTable>
+	</h:form>
+</body> 
+</html>

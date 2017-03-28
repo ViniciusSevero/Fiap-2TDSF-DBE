@@ -1,0 +1,30 @@
+package br.com.fiap.bean;
+
+import javax.faces.bean.ManagedBean;
+
+import br.com.fiap.repository.CompraRepository;
+import br.com.fiap.to.CompraTO;
+
+@ManagedBean
+public class CompraBean {
+	private CompraTO compra;
+	private CompraRepository repository = new CompraRepository();
+	
+	public void cadastrar(){
+		try {
+			repository.cadastrar(compra);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	public CompraTO getCompra() {
+		return compra;
+	}
+
+	public void setTo(CompraTO compra) {
+		this.compra = compra;
+	}
+
+	
+}
