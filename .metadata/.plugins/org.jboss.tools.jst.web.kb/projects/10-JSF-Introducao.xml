@@ -120,7 +120,6 @@
    <linked-el length="33" name="%2" offset="481" path="%1"/>
    <linked-el length="26" name="%2" offset="1088" path="%1"/>
    <linked-el length="30" name="%2" offset="975" path="%1"/>
-   <linked-el length="26" name="%2" offset="1199" path="%1"/>
    <linked-el length="23" name="%3" offset="625" path="%4"/>
    <linked-el length="23" name="%3" offset="476" path="%4"/>
    <linked-el length="21" name="%3" offset="568" path="%4"/>
@@ -134,7 +133,6 @@
    <linked-el length="33" name="%6" offset="481" path="%1"/>
    <linked-el length="26" name="%6" offset="1088" path="%1"/>
    <linked-el length="30" name="%6" offset="975" path="%1"/>
-   <linked-el length="26" name="%6" offset="1199" path="%1"/>
   </el>
  </validation>
  <aliases>

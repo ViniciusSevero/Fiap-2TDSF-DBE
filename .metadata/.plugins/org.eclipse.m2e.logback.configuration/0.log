@@ -4587,3 +4587,5 @@ java.io.FileNotFoundException: C:\Users\logonrm\.m2\repository\org\javassist\jav
 2017-03-28 11:56:45,098 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\10-JSF-Introducao\src\main\resources
 2017-03-28 11:56:45,099 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-03-28 11:56:45,099 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\10-JSF-Introducao\src\test\resources
+2017-03-28 11:57:58,848 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@33a4429d{HTTP/1.1,[http/1.1]}{127.0.0.1:0}
+2017-03-28 11:57:58,915 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@52cecc9b{/help,null,UNAVAILABLE}
