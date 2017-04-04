@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:h="http://java.sun.com/jsf/html"> 
+
+<h:head></h:head> 
+<body> 
+	<h1>Cadastro Veiculo</h1>
+	<h:form>
+		<div>
+			<h:outputLabel value="Modelo" />
+			<h:inputText value="#{veiculoBean.veiculo.modelo}" />
+		</div>
+		<div>
+			<h:outputLabel value="Marca" />
+			<h:inputText value="#{veiculoBean.veiculo.marca}" />
+		</div>
+		<div>
+			<h:outputLabel value="Preço" />
+			<h:inputText value="#{veiculoBean.veiculo.preco}" />
+		</div>
+		<h:commandButton action="#{veiculoBean.cadastrar()}" value="Cadastrar" />
+	</h:form>
+	
+	<br/>
+	<br/>
+	
+	<h:dataTable value="#{veiculoBean.veiculos}" var="veiculo">
+		<h:column>
+			<f:facet name="header">codigo</f:facet>		
+			#{veiculo.codigo}
+		</h:column>
+		<h:column>
+			<f:facet name="header">codigo</f:facet>		
+			#{veiculo.marca}
+		</h:column>
+		<h:column>
+			<f:facet name="header">codigo</f:facet>		
+			#{veiculo.modveiculo}
+		</h:column>
+		<h:column>
+			<f:facet name="header">codigo</f:facet>		
+			#{veiculo.codigo}
+		</h:column>
+	</h:dataTable>
+</body> 
+</html>

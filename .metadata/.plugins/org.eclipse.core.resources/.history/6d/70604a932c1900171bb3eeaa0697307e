@@ -1,0 +1,15 @@
+package br.com.fiap.bean;
+
+import javax.faces.bean.ManagedBean;
+
+import br.com.fiap.repository.VeiculoRepository;
+import br.com.fiap.to.VeiculoTO;
+
+@ManagedBean
+public class VeiculoBean {
+	private VeiculoTO veiculo = new VeiculoTO();
+	
+	public void cadastrar(){
+		VeiculoRepository rep = new VeiculoRepository();
+	}
+}
