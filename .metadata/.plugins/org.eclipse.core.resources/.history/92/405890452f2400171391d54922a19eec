@@ -1,0 +1,10 @@
+package br.com.severo.cantina.entity;
+
+import java.util.List;
+
+public class Cliente {
+	private long id;
+	private String nome;
+	private List<Endereco> enderecos;
+	private List<Telefone> telefones;
+}

@@ -1,0 +1,12 @@
+package br.com.severo.cantina.entity;
+
+public class Endereco {
+	private int id;
+	private int cep;
+	private String logradouro;
+	private int numero;
+	private String complemento;
+	private String estado;
+	private String cidade;
+	private String bairro;
+}
