@@ -1,0 +1,13 @@
+package br.com.severo.cantina.controller;
+
+import javax.persistence.EntityManager;
+
+import org.springframework.stereotype.Controller;
+
+import br.com.severo.cantina.repository.ClienteDAO;
+
+@Controller
+public class ClienteController {
+	
+	private ClienteDAO dao;
+}

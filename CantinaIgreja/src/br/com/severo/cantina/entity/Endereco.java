@@ -2,28 +2,35 @@ package br.com.severo.cantina.entity;
 
 import java.util.List;
 
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.EnumType;
+import javax.persistence.Enumerated;
+import javax.persistence.Id;
+import javax.persistence.ManyToMany;
+
+@Entity
 public class Endereco {
-	private int id;
-	private int cep;
+	@Id @Column(length=8)
+	private String cep;
 	private String logradouro;
 	private int numero;
+	@Column(nullable=true)
 	private String complemento;
 	private String estado;
 	private String cidade;
 	private String bairro;
+	
+	@Enumerated(EnumType.STRING)
 	private TipoEndereco tipoEndereco;
+	
+	@ManyToMany(mappedBy="enderecos")
 	private List<Cliente> clientes;
 	
-	public int getId() {
-		return id;
-	}
-	public void setId(int id) {
-		this.id = id;
-	}
-	public int getCep() {
+	public String getCep() {
 		return cep;
 	}
-	public void setCep(int cep) {
+	public void setCep(String cep) {
 		this.cep = cep;
 	}
 	public String getLogradouro() {

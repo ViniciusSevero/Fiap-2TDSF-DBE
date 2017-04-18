@@ -1,3 +1,6 @@
 1492516892671	Rename package 'br.com.severo.cantina.beans'
 1492517267708	Rename type 'TipoContato'
 1492521533212	Rename resource 'spring.xml'
+1492525177549	Rename package 'br.com.fiap.dao'
+1492525436107	Rename type 'PratoDAO'
+1492525443238	Rename type 'PratoDAOImpl'

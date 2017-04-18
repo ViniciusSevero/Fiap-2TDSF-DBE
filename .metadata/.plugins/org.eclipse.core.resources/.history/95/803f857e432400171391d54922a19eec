@@ -1,0 +1,13 @@
+package br.com.severo.cantina.repository;
+
+import javax.persistence.EntityManager;
+
+import br.com.severo.cantina.entity.Cliente;
+
+public class ClienteDAOImpl extends GenericDAOImpl<Cliente, Integer> implements ClienteDAO {
+
+	public ClienteDAOImpl(EntityManager manager) {
+		super(manager);
+	}
+
+}

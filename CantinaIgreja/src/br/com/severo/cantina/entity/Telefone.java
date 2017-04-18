@@ -2,11 +2,19 @@ package br.com.severo.cantina.entity;
 
 import java.util.List;
 
+import javax.persistence.EnumType;
+import javax.persistence.Enumerated;
+import javax.persistence.ManyToMany;
+
 public class Telefone {
 	private int id;
 	private int ddd;
 	private int numero;
+	
+	@Enumerated(EnumType.STRING)
 	private TipoTelefone tipo;
+	
+	@ManyToMany(mappedBy="telefones")
 	private List<Cliente> clientes;
 	
 	public int getId() {

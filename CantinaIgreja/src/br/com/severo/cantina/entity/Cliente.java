@@ -2,10 +2,25 @@ package br.com.severo.cantina.entity;
 
 import java.util.List;
 
+import javax.persistence.CascadeType;
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.ManyToMany;
+
+@Entity
 public class Cliente {
+	@Id @GeneratedValue
 	private long id;
+	
+	@Column(nullable=false)
 	private String nome;
+	
+	@ManyToMany(cascade=CascadeType.PERSIST)
 	private List<Endereco> enderecos;
+	
+	@ManyToMany(cascade=CascadeType.PERSIST)
 	private List<Telefone> telefones;
 	
 	public long getId() {

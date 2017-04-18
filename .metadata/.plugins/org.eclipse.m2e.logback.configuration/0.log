@@ -7987,3 +7987,507 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sun.faces
 2017-04-18 10:20:04,940 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
 2017-04-18 10:20:04,941 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-04-18 10:20:04,941 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:32:40,688 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:32:40,689 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:32:40,690 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:32:40,690 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:32:42,755 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:32:42,755 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:32:42,756 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:32:42,757 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:33:04,340 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:33:04,340 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:33:04,341 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:33:04,342 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:33:07,396 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:33:07,397 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:33:07,397 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:33:07,398 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:34:30,095 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:34:30,096 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:34:30,096 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:34:30,097 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:34:32,539 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:34:32,540 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:34:32,540 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:34:32,541 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:34:41,813 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:34:41,814 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:34:41,815 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:34:41,815 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:34:48,141 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:34:48,142 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:34:48,142 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:34:48,143 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:36:49,999 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:36:50,000 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:36:50,000 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:36:50,001 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:36:59,871 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:36:59,872 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:36:59,872 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:36:59,873 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:37:04,323 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:37:04,324 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:37:04,324 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:37:04,325 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:38:44,426 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:38:44,427 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:38:44,427 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:38:44,428 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:40:39,078 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:40:39,079 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:40:39,080 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:40:39,080 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:40:52,013 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:40:52,013 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:40:52,014 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:40:52,015 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:40:56,669 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:40:56,669 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:40:56,670 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:40:56,671 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:41:02,294 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:41:02,295 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:41:02,296 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:41:02,296 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:41:29,848 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:41:29,850 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:41:29,851 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:41:29,851 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:44:12,743 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:44:12,744 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:44:12,744 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:44:12,745 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:44:18,945 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:44:18,946 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:44:18,947 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:44:18,947 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:44:27,557 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:44:27,557 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:44:27,558 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:44:27,558 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:44:41,072 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:44:41,073 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:44:41,074 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:44:41,075 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:44:49,665 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:44:49,666 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:44:49,667 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:44:49,667 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:44:52,549 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:44:52,549 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:44:52,550 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:44:52,550 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:44:53,667 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:44:53,668 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:44:53,669 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:44:53,669 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:44:57,890 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:44:57,891 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:44:57,892 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:44:57,893 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:45:00,526 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:45:00,526 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:45:00,527 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:45:00,528 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:45:21,343 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:45:21,344 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:45:21,345 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:45:21,346 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:45:23,477 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:45:23,478 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:45:23,478 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:45:23,479 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:45:34,736 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:45:34,736 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:45:34,737 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:45:34,738 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:45:39,312 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:45:39,312 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:45:39,313 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:45:39,313 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:46:16,604 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:46:16,604 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:46:16,605 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:46:16,606 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:46:18,998 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:46:18,998 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:46:18,999 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:46:19,000 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:46:22,753 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:46:22,753 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:46:22,754 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:46:22,754 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:46:35,109 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:46:35,109 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:46:35,110 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:46:35,111 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:46:49,462 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:46:49,463 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:46:49,463 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:46:49,464 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:47:35,044 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:47:35,045 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:47:35,046 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:47:35,046 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:47:40,083 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:47:40,084 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:47:40,085 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:47:40,085 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:47:41,286 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:47:41,286 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:47:41,287 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:47:41,288 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:47:43,405 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:47:43,405 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:47:43,406 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:47:43,406 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:48:15,412 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:48:15,413 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:48:15,413 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:48:15,414 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:48:37,213 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:48:37,213 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:48:37,214 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:48:37,214 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:48:55,468 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:48:55,469 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:48:55,469 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:48:55,470 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:48:58,788 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:48:58,788 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:48:58,789 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:48:58,790 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:49:27,464 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:49:27,464 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:49:27,465 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:49:27,466 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:49:36,206 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:49:36,206 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:49:36,207 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:49:36,207 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:49:39,860 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:49:39,860 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:49:39,861 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:49:39,862 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:49:48,076 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:49:48,076 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:49:48,077 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:49:48,078 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:49:53,328 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:49:53,328 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:49:53,329 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:49:53,329 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:53:18,855 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:53:18,856 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:53:18,857 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:53:18,857 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:53:28,962 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:53:28,963 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:53:28,963 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:53:28,964 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:53:42,328 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:53:42,329 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:53:42,329 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:53:42,330 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:53:50,943 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:53:50,944 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:53:50,945 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:53:50,946 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 10:53:54,286 [Worker-143] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:53:54,287 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 10:53:54,288 [Worker-143] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 10:53:54,288 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:18:14,526 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:18:14,527 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:18:14,528 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:18:14,528 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:18:19,063 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:18:19,063 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:18:19,064 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:18:19,064 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:19:02,597 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:19:02,597 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:19:02,598 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:19:02,599 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:19:37,778 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:19:37,778 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:19:37,779 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:19:37,779 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:20:17,476 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:20:17,477 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:20:17,478 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:20:17,479 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:20:24,026 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:20:24,026 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:20:24,027 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:20:24,028 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:20:35,632 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:20:35,633 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:20:35,633 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:20:35,634 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:20:44,160 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:20:44,160 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:20:44,161 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:20:44,161 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:20:49,033 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:20:49,033 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:20:49,034 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:20:49,034 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:20:54,750 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:20:54,751 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:20:54,751 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:20:54,752 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:21:00,776 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:21:00,776 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:21:00,777 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:21:00,777 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:21:05,180 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:21:05,180 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:21:05,181 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:21:05,182 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:21:32,095 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:21:32,095 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:21:32,096 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:21:32,096 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:21:37,436 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:21:37,437 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:21:37,437 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:21:37,438 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:21:55,395 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:21:55,395 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:21:55,396 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:21:55,396 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:22:12,700 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:22:12,701 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:22:12,701 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:22:12,702 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:23:56,605 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:23:56,605 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:23:56,606 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:23:56,607 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:24:03,578 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:24:03,578 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:24:03,579 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:24:03,579 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:24:19,842 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:24:19,843 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:24:19,843 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:24:19,844 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:24:22,543 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:24:22,544 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:24:22,545 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:24:22,545 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:24:29,517 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:24:29,518 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:24:29,518 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:24:29,518 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:24:33,117 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:24:33,117 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:24:33,118 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:24:33,118 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:24:36,228 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:24:36,229 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:24:36,230 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:24:36,230 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:25:52,611 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:25:52,611 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:25:52,612 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:25:52,612 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:26:00,991 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:26:00,991 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:26:00,992 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:26:00,992 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:26:18,446 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:26:18,447 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:26:18,447 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:26:18,448 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:26:26,496 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:26:26,496 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:26:26,497 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:26:26,498 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:26:27,570 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:26:27,571 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:26:27,573 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:26:27,573 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:26:31,745 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:26:31,746 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:26:31,746 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:26:31,746 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:26:33,886 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:26:33,886 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:26:33,887 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:26:33,887 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:26:42,585 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:26:42,586 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:26:42,586 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:26:42,587 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:26:43,697 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:26:43,698 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:26:43,698 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:26:43,699 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:27:32,441 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:27:32,442 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:27:32,443 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:27:32,443 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:27:52,205 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:27:52,206 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:27:52,207 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:27:52,207 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:28:58,408 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:28:58,409 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:28:58,409 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:28:58,410 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:29:10,833 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:29:10,833 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:29:10,833 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:29:10,834 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:29:24,268 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:29:24,269 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:29:24,269 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:29:24,270 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:29:26,421 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:29:26,421 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:29:26,422 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:29:26,423 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:29:35,737 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:29:35,738 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:29:35,739 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:29:35,739 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:29:56,988 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:29:56,988 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:29:56,989 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:29:56,989 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:30:02,791 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:30:02,792 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:30:02,792 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:30:02,793 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:30:12,532 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:30:12,533 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:30:12,533 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:30:12,534 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:30:22,327 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:30:22,328 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:30:22,328 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:30:22,329 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:31:23,512 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:31:23,512 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:31:23,513 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:31:23,513 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:31:40,473 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:31:40,474 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:31:40,474 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:31:40,475 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:31:51,223 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:31:51,224 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:31:51,225 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:31:51,225 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:32:02,682 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:32:02,682 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:32:02,683 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:32:02,683 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:32:05,523 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:32:05,523 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:32:05,524 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:32:05,524 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:32:14,099 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:32:14,099 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:32:14,100 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:32:14,101 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:32:51,609 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:32:51,609 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:32:51,610 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:32:51,611 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:33:03,254 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:33:03,255 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:33:03,255 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:33:03,256 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:33:48,152 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:33:48,152 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:33:48,153 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:33:48,153 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:34:12,685 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:34:12,686 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:34:12,687 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:34:12,688 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:35:17,294 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:35:17,295 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:35:17,296 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:35:17,296 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:35:33,190 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:35:33,191 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:35:33,191 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:35:33,191 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:39:50,764 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:39:50,765 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:39:50,765 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:39:50,766 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:40:22,278 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:40:22,278 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:40:22,279 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:40:22,279 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:41:34,341 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:41:34,342 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:41:34,342 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:41:34,343 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:41:36,444 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:41:36,445 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:41:36,445 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:41:36,445 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:41:45,081 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:41:45,082 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:41:45,082 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:41:45,083 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:43:39,145 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:43:39,146 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:43:39,146 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:43:39,147 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:43:42,607 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:43:42,607 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:43:42,608 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:43:42,608 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:43:48,938 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:43:48,940 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:43:48,940 [Worker-155] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:43:48,941 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:46:26,495 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:46:26,495 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:46:26,496 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:46:26,497 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:46:31,527 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:46:31,528 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:46:31,528 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:46:31,529 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:46:33,804 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:46:33,804 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:46:33,805 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:46:33,805 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:46:38,092 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:46:38,092 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:46:38,093 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:46:38,093 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:47:30,310 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:47:30,311 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:47:30,311 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:47:30,311 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:48:32,488 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:48:32,489 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:48:32,490 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:48:32,490 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:49:45,215 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:49:45,216 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:49:45,217 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:49:45,217 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:49:47,961 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:49:47,961 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:49:47,962 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:49:47,962 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:50:40,493 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:50:40,493 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:50:40,494 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:50:40,494 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 11:51:27,526 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:51:27,526 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 11:51:27,527 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 11:51:27,527 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
