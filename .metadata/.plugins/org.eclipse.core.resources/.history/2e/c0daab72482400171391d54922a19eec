@@ -15,7 +15,7 @@ public class GenericDAOImpl<T,K> implements GenericDAO<T, K> {
 	private EntityManager manager;
 	
 	public GenericDAOImpl() {
-		//clazz = (Class<T>)((ParameterizedType) getClass().getGenericSuperclass()).getActualTypeArguments()[0];
+		clazz = (Class<T>)((ParameterizedType) getClass().getGenericSuperclass()).getActualTypeArguments()[0];
 	}
 	
 	@Override

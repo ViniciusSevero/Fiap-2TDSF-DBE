@@ -10,7 +10,6 @@ import br.com.severo.cantina.repository.ClienteDAO;
 @Controller
 public class ClienteController {
 	@Autowired 
-	@Qualifier("clienteDAOImpl")
 	private ClienteDAO dao;
 	
 	@RequestMapping("/cliente")

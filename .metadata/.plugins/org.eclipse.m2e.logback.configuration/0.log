@@ -8491,3 +8491,35 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.sun.faces
 2017-04-18 11:51:27,526 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
 2017-04-18 11:51:27,527 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-04-18 11:51:27,527 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 12:02:01,467 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 12:02:01,468 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 12:02:01,468 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 12:02:01,469 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 12:02:10,960 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 12:02:10,960 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 12:02:10,961 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 12:02:10,961 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 12:03:20,041 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 12:03:20,041 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 12:03:20,042 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 12:03:20,042 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 12:03:27,091 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 12:03:27,092 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 12:03:27,092 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 12:03:27,093 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 12:05:24,015 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 12:05:24,016 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 12:05:24,017 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 12:05:24,017 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 12:06:31,211 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 12:06:31,212 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 12:06:31,212 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 12:06:31,212 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 12:07:13,232 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 12:07:13,233 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 12:07:13,234 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 12:07:13,234 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
+2017-04-18 12:07:29,021 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 12:07:29,022 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\main\resources
+2017-04-18 12:07:29,022 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-18 12:07:29,023 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Fiap-2TDSF-DBE\CantinaIgreja\src\test\resources
