@@ -60,23 +60,7 @@
   <path value="C:/Users/logonrm/.m2/repository/org/springframework/spring-aop/4.2.1.RELEASE/spring-aop-4.2.1.RELEASE.jar"/>
   <path value="C:/opensource/ApacheTomcat9/lib/tomcat-coyote.jar"/>
  </paths>
- <validation>
-  <core validator-id="jsf-verification"/>
-  <core validator-id="jboss.cdi.core"/>
-  <el>
-   <linked-el length="17" name="%0" offset="1966" path="%1"/>
-   <linked-el length="17" name="%0" offset="1655" path="%1"/>
-   <linked-el length="17" name="%0" offset="1809" path="%1"/>
-   <linked-el length="17" name="%2" offset="1966" path="%1"/>
-   <linked-el length="17" name="%2" offset="1655" path="%1"/>
-   <linked-el length="17" name="%2" offset="1809" path="%1"/>
-  </el>
- </validation>
- <aliases>
-  <alias path="spring" value="%0"/>
-  <alias path="/CantinaIgreja/pom.xml" value="%1"/>
-  <alias path="spring.version" value="%2"/>
- </aliases>
  <includes/>
+ <aliases/>
  <uris/>
 </kb-project>

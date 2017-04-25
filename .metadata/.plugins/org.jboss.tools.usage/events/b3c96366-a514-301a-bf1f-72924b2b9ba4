@@ -1,11 +1,11 @@
-#Tue Apr 18 09:09:51 BRT 2017
+#Tue Apr 25 08:02:55 BRT 2017
 vl=How many times the 'Finish' button pressed during the day
 l=Wizard class name
 ct=jbt
-d=1492517391239
+d=1493118175737
 c=0
 cmp=usage
 a=finishWizard
 cl=org.jboss.tools.jst.web.ui.wizards.newfile.NewXHTMLWizard
 v=2.2.1
-s=1
+s=0

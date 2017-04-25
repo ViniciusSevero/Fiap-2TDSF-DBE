@@ -14,12 +14,14 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="CantinaIgreja"/>
 			<item value="10-JSF-Introducao"/>
 			<item value="09-WebserviceRestfull-client-banco"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="CantinaIgreja"/>
 			<item value="10-JSF-Introducao"/>
 			<item value="09-WebserviceRestfull-client-banco"/>
 		</list>

@@ -6,66 +6,24 @@
   <path value="C:/opensource/ApacheTomcat9/lib/jaspic-api.jar"/>
   <path value="C:/opensource/ApacheTomcat9/lib/servlet-api.jar"/>
   <path value="C:/opensource/ApacheTomcat9/lib/tomcat-i18n-es.jar"/>
-  <path value="C:/Users/logonrm/.m2/repository/com/sun/faces/jsf-api/2.2.14/jsf-api-2.2.14.jar"/>
+  <path value="C:/Users/logonrm/.m2/repository/org/glassfish/jersey/core/jersey-common/2.25.1/jersey-common-2.25.1.jar"/>
   <path value="C:/opensource/ApacheTomcat9/lib/tomcat-util.jar"/>
   <path value="C:/opensource/ApacheTomcat9/lib/catalina.jar"/>
   <path value="C:/Users/logonrm/.m2/repository/com/sun/jersey/jersey-core/1.8/jersey-core-1.8.jar"/>
   <path value="C:/opensource/ApacheTomcat9/lib/el-api.jar"/>
   <path value="C:/opensource/ApacheTomcat9/lib/catalina-tribes.jar"/>
+  <path value="C:/Users/logonrm/.m2/repository/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar"/>
   <path value="C:/opensource/ApacheTomcat9/lib/catalina-ha.jar"/>
   <path value="C:/opensource/ApacheTomcat9/lib/jasper.jar"/>
-  <path value="C:/Users/logonrm/.m2/repository/com/sun/faces/jsf-impl/2.2.14/jsf-impl-2.2.14.jar">
-   <libraries>
-    <library class="tld">
-     <id class="model-object"
-      path="FileSystems/lib-jsf-impl-2.2.14.jar/meta-inf/html_basic.tld" project="10-JSF-Introducao"/>
-    </library>
-    <library class="tld">
-     <id class="model-object"
-      path="FileSystems/lib-jsf-impl-2.2.14.jar/meta-inf/jsf_core.tld" project="10-JSF-Introducao"/>
-    </library>
-    <library class="facelet">
-     <id class="model-object"
-      path="FileSystems/lib-jsf-impl-2.2.14.jar/meta-inf/mojarra_ext.taglib.xml" project="10-JSF-Introducao"/>
-    </library>
-    <library class="tld">
-     <id class="model-object"
-      path="FileSystems/lib-jsf-impl-2.2.14.jar/meta-inf/mojarra_ext.tld" project="10-JSF-Introducao"/>
-    </library>
-    <library class="facelet">
-     <id class="model-object"
-      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/composite.taglib.xml" project="10-JSF-Introducao"/>
-    </library>
-    <library class="facelet">
-     <id class="model-object"
-      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/facelets_jsf_core.taglib.xml" project="10-JSF-Introducao"/>
-    </library>
-    <library class="facelet">
-     <id class="model-object"
-      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/html_basic.taglib.xml" project="10-JSF-Introducao"/>
-    </library>
-    <library class="facelet">
-     <id class="model-object"
-      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/jstl-core.taglib.xml" project="10-JSF-Introducao"/>
-    </library>
-    <library class="facelet">
-     <id class="model-object"
-      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/jstl-fn.taglib.xml" project="10-JSF-Introducao"/>
-    </library>
-    <library class="facelet">
-     <id class="model-object"
-      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/mojarra_ext.taglib.xml" project="10-JSF-Introducao"/>
-    </library>
-    <library class="facelet">
-     <id class="model-object"
-      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/ui.taglib.xml" project="10-JSF-Introducao"/>
-    </library>
-   </libraries>
-  </path>
+  <path value="C:/Users/logonrm/.m2/repository/org/glassfish/hk2/external/aopalliance-repackaged/2.5.0-b32/aopalliance-repackaged-2.5.0-b32.jar"/>
   <path value="C:/Users/logonrm/.m2/repository/com/sun/jersey/jersey-client/1.8/jersey-client-1.8.jar"/>
+  <path value="C:/Users/logonrm/.m2/repository/org/glassfish/hk2/hk2-locator/2.5.0-b32/hk2-locator-2.5.0-b32.jar"/>
   <path value="C:/opensource/ApacheTomcat9/lib/tomcat-i18n-ja.jar"/>
+  <path value="C:/Users/logonrm/.m2/repository/org/glassfish/hk2/external/javax.inject/2.5.0-b32/javax.inject-2.5.0-b32.jar"/>
   <path value="C:/opensource/ApacheTomcat9/lib/tomcat-websocket.jar"/>
   <path value="C:/opensource/ApacheTomcat9/lib/tomcat-jdbc.jar"/>
+  <path value="C:/Users/logonrm/.m2/repository/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.25.1/jersey-guava-2.25.1.jar"/>
+  <path value="C:/Users/logonrm/.m2/repository/org/glassfish/hk2/hk2-utils/2.5.0-b32/hk2-utils-2.5.0-b32.jar"/>
   <path value="C:/opensource/ApacheTomcat9/lib/tomcat-jni.jar"/>
   <path value="C:/opensource/ApacheTomcat9/lib/tomcat-util-scan.jar"/>
   <path value="C:/opensource/ApacheTomcat9/lib/ecj-4.6.1.jar"/>
@@ -74,6 +32,7 @@
   <path value="C:/opensource/ApacheTomcat9/lib/tomcat-dbcp.jar"/>
   <path value="C:/opensource/ApacheTomcat9/lib/tomcat-i18n-fr.jar"/>
   <path value="C:/opensource/ApacheTomcat9/lib/tomcat-api.jar"/>
+  <path value="C:/Users/logonrm/.m2/repository/org/glassfish/hk2/hk2-api/2.5.0-b32/hk2-api-2.5.0-b32.jar"/>
   <path value="/10-JSF-Introducao/WebContent/WEB-INF/faces-config.xml">
    <libraries>
     <library class="faces-config">
