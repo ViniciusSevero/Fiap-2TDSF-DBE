@@ -100,33 +100,28 @@
   <core validator-id="jsf-verification"/>
   <core validator-id="jboss.jsf.core"/>
   <el>
-   <linked-el length="37" name="%0" offset="1431" path="%1"/>
+   <linked-el length="32" name="%0" offset="602" path="%1"/>
+   <linked-el length="27" name="%0" offset="1431" path="%1"/>
+   <linked-el length="33" name="%0" offset="1072" path="%1"/>
+   <linked-el length="33" name="%0" offset="1279" path="%1"/>
+   <linked-el length="37" name="%0" offset="805" path="%1"/>
    <linked-el length="32" name="%2" offset="602" path="%1"/>
-   <linked-el length="37" name="%2" offset="1431" path="%1"/>
    <linked-el length="33" name="%2" offset="1072" path="%1"/>
    <linked-el length="33" name="%2" offset="1279" path="%1"/>
    <linked-el length="37" name="%2" offset="805" path="%1"/>
    <linked-el length="32" name="%3" offset="602" path="%1"/>
-   <linked-el length="37" name="%3" offset="1431" path="%1"/>
+   <linked-el length="27" name="%3" offset="1431" path="%1"/>
    <linked-el length="33" name="%3" offset="1072" path="%1"/>
    <linked-el length="33" name="%3" offset="1279" path="%1"/>
    <linked-el length="37" name="%3" offset="805" path="%1"/>
-   <linked-el length="32" name="%4" offset="602" path="%1"/>
-   <linked-el length="37" name="%4" offset="1431" path="%1"/>
-   <linked-el length="33" name="%4" offset="1072" path="%1"/>
-   <linked-el length="33" name="%4" offset="1279" path="%1"/>
-   <linked-el length="37" name="%4" offset="805" path="%1"/>
-   <linked-el length="37" name="%5" offset="1431" path="%1"/>
   </el>
  </validation>
  <aliases>
-  <alias path="congressoMB.congresso" value="%0"/>
   <alias
-   path="/17-JSF-JPA/src/br/com/fiap/managedbeans/CongressoMB.java" value="%2"/>
-  <alias path="/17-JSF-JPA/src/br/com/fiap/entity/Congresso.java" value="%3"/>
-  <alias path="congressoMB" value="%4"/>
+   path="/17-JSF-JPA/src/br/com/fiap/managedbeans/CongressoMB.java" value="%0"/>
+  <alias path="/17-JSF-JPA/src/br/com/fiap/entity/Congresso.java" value="%2"/>
+  <alias path="congressoMB" value="%3"/>
   <alias path="/17-JSF-JPA/WebContent/cadastro.xhtml" value="%1"/>
-  <alias path="congressoMB.congresso.cadastrar" value="%5"/>
  </aliases>
  <includes/>
  <uris>
