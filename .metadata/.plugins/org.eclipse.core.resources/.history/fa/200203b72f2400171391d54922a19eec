@@ -1,7 +1,0 @@
-package br.com.severo.cantina.entity;
-
-public class Telefone {
-	private int id;
-	private int ddd;
-	private int numero;
-}

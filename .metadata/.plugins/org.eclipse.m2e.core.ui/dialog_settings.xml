@@ -14,6 +14,7 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="12-JSF-WebServiceSOAP"/>
 			<item value="CantinaIgreja"/>
 			<item value="10-JSF-Introducao"/>
 			<item value="09-WebserviceRestfull-client-banco"/>
@@ -21,6 +22,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="12-JSF-WebServiceSOAP"/>
 			<item value="CantinaIgreja"/>
 			<item value="10-JSF-Introducao"/>
 			<item value="09-WebserviceRestfull-client-banco"/>

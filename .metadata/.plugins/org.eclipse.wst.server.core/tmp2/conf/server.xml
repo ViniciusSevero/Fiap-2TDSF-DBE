@@ -144,7 +144,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="D:\Fiap-2TDSF-DBE\.metadata\.plugins\org.eclipse.wst.server.core\tmp2\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="D:\Fiap-2TDSF-DBE\.metadata\.plugins\org.eclipse.wst.server.core\tmp2\wtpwebapps\06-WebserviceRestfull-server" path="/06-WebserviceRestfull-server" reloadable="true" source="org.eclipse.jst.jee.server:06-WebserviceRestfull-server"/><Context docBase="D:\Fiap-2TDSF-DBE\.metadata\.plugins\org.eclipse.wst.server.core\tmp2\wtpwebapps\11-JSF-WebserviceRestfull" path="/11-JSF-WebserviceRestfull" reloadable="true" source="org.eclipse.jst.jee.server:11-JSF-WebserviceRestfull"/><Context docBase="D:\Fiap-2TDSF-DBE\.metadata\.plugins\org.eclipse.wst.server.core\tmp2\wtpwebapps\CantinaIgreja" path="/CantinaIgreja" reloadable="true" source="org.eclipse.jst.jee.server:CantinaIgreja"/></Host>
+      <Context docBase="D:\Fiap-2TDSF-DBE\.metadata\.plugins\org.eclipse.wst.server.core\tmp2\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="D:\Fiap-2TDSF-DBE\.metadata\.plugins\org.eclipse.wst.server.core\tmp2\wtpwebapps\17-JSF-JPA" path="/17-JSF-JPA" reloadable="true" source="org.eclipse.jst.jee.server:17-JSF-JPA"/></Host>
     </Engine>
   </Service>
 </Server>

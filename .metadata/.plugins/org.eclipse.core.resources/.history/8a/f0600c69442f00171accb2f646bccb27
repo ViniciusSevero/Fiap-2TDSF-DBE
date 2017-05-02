@@ -1,0 +1,40 @@
+package br.com.fiap.managedbeans;
+
+import javax.annotation.PostConstruct;
+import javax.faces.application.FacesMessage;
+import javax.faces.bean.ManagedBean;
+import javax.faces.context.FacesContext;
+
+import br.com.fiap.bo.CongressoBO;
+import br.com.fiap.entity.Congresso;
+import br.com.fiap.exception.CommitErrorException;
+
+@ManagedBean
+public class CongressoMB {
+	private Congresso congresso;
+	private CongressoBO bo;
+	
+	@PostConstruct
+	public void init(){
+		congresso = new Congresso();
+		bo = new CongressoBO();
+	}
+	
+	public void cadastrar(){
+		try {
+			bo.cadastrar(this.congresso);
+			this.congresso = new Congresso();
+			FacesContext.getCurrentInstance().addMessage(null, new FacesMessage(, summary, detail));
+		} catch (CommitErrorException e) {
+			e.printStackTrace();
+		}
+	}
+
+	public Congresso getCongresso() {
+		return congresso;
+	}
+
+	public void setCongresso(Congresso congresso) {
+		this.congresso = congresso;
+	}
+}
