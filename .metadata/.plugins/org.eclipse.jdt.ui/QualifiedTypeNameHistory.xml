@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="javax.persistence.Table"/>
-<fullyQualifiedTypeName name="javax.persistence.SequenceGenerator"/>
-<fullyQualifiedTypeName name="java.io.Serializable"/>
-<fullyQualifiedTypeName name="br.com.fiap.dao.GenericDAO"/>
-<fullyQualifiedTypeName name="br.com.fiap.dao.GenericDAOImpl"/>
-<fullyQualifiedTypeName name="br.com.fiap.dao.PratoDAO"/>
 <fullyQualifiedTypeName name="br.com.fiap.dao.PratoDAOImpl"/>
 <fullyQualifiedTypeName name="javax.persistence.EntityManagerFactory"/>
 <fullyQualifiedTypeName name="br.com.fiap.singleton.EntityManagerFactorySingleton"/>
-<fullyQualifiedTypeName name="br.com.fiap.exception.CommitErrorException"/>
 <fullyQualifiedTypeName name="br.com.fiap.entity.Prato"/>
 <fullyQualifiedTypeName name="br.com.fiap.bo.PratoBOStub.Cadastrar"/>
 <fullyQualifiedTypeName name="org.apache.axis2.AxisFault"/>
@@ -31,13 +24,11 @@
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="br.com.fiap.repository.CompraRepository"/>
 <fullyQualifiedTypeName name="javax.annotation.ManagedBean"/>
-<fullyQualifiedTypeName name="javax.faces.bean.ManagedBean"/>
 <fullyQualifiedTypeName name="br.com.fiap.to.CompraTO"/>
 <fullyQualifiedTypeName name="br.com.severo.cantina.entity.Endereco"/>
 <fullyQualifiedTypeName name="br.com.severo.cantina.entity.Telefone"/>
 <fullyQualifiedTypeName name="br.com.severo.cantina.entity.TipoTelefone"/>
 <fullyQualifiedTypeName name="br.com.severo.cantina.entity.TipoEndereco"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="javax.persistence.Entity"/>
 <fullyQualifiedTypeName name="javax.persistence.Id"/>
 <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
@@ -50,10 +41,23 @@
 <fullyQualifiedTypeName name="br.com.severo.cantina.entity.Cliente"/>
 <fullyQualifiedTypeName name="br.com.severo.cantina.repository.ClienteDAO"/>
 <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
-<fullyQualifiedTypeName name="javax.annotation.PostConstruct"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="javax.persistence.PersistenceContext"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+<fullyQualifiedTypeName name="javax.faces.bean.ViewScoped"/>
+<fullyQualifiedTypeName name="br.com.fiap.to.PratoTO"/>
+<fullyQualifiedTypeName name="br.com.fiap.exception.CommitErrorException"/>
+<fullyQualifiedTypeName name="br.com.fiap.exception.CodigoInvalidoException"/>
+<fullyQualifiedTypeName name="br.com.fiap.dao.CongressoDAO"/>
+<fullyQualifiedTypeName name="br.com.fiap.dao.impl.CongressoDAOImpl"/>
+<fullyQualifiedTypeName name="javax.faces.application.FacesMessage"/>
+<fullyQualifiedTypeName name="javax.faces.context.FacesContext"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="javax.faces.bean.ManagedBean"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="br.com.fiap.entity.Congresso"/>
+<fullyQualifiedTypeName name="javax.annotation.PostConstruct"/>
+<fullyQualifiedTypeName name="br.com.fiap.bo.CongressoBO"/>
 </qualifiedTypeNameHistroy>

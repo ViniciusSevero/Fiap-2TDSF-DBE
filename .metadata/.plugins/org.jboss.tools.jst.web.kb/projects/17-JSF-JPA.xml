@@ -22,47 +22,47 @@
    <libraries>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jsf-impl-2.2.14.jar/meta-inf/html_basic.tld" project="12-JSF-WebServiceSOAP"/>
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/meta-inf/html_basic.tld" project="17-JSF-JPA"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jsf-impl-2.2.14.jar/meta-inf/jsf_core.tld" project="12-JSF-WebServiceSOAP"/>
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/meta-inf/jsf_core.tld" project="17-JSF-JPA"/>
     </library>
     <library class="facelet">
      <id class="model-object"
-      path="FileSystems/lib-jsf-impl-2.2.14.jar/meta-inf/mojarra_ext.taglib.xml" project="12-JSF-WebServiceSOAP"/>
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/meta-inf/mojarra_ext.taglib.xml" project="17-JSF-JPA"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-jsf-impl-2.2.14.jar/meta-inf/mojarra_ext.tld" project="12-JSF-WebServiceSOAP"/>
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/meta-inf/mojarra_ext.tld" project="17-JSF-JPA"/>
     </library>
     <library class="facelet">
      <id class="model-object"
-      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/composite.taglib.xml" project="12-JSF-WebServiceSOAP"/>
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/composite.taglib.xml" project="17-JSF-JPA"/>
     </library>
     <library class="facelet">
      <id class="model-object"
-      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/facelets_jsf_core.taglib.xml" project="12-JSF-WebServiceSOAP"/>
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/facelets_jsf_core.taglib.xml" project="17-JSF-JPA"/>
     </library>
     <library class="facelet">
      <id class="model-object"
-      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/html_basic.taglib.xml" project="12-JSF-WebServiceSOAP"/>
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/html_basic.taglib.xml" project="17-JSF-JPA"/>
     </library>
     <library class="facelet">
      <id class="model-object"
-      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/jstl-core.taglib.xml" project="12-JSF-WebServiceSOAP"/>
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/jstl-core.taglib.xml" project="17-JSF-JPA"/>
     </library>
     <library class="facelet">
      <id class="model-object"
-      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/jstl-fn.taglib.xml" project="12-JSF-WebServiceSOAP"/>
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/jstl-fn.taglib.xml" project="17-JSF-JPA"/>
     </library>
     <library class="facelet">
      <id class="model-object"
-      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/mojarra_ext.taglib.xml" project="12-JSF-WebServiceSOAP"/>
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/mojarra_ext.taglib.xml" project="17-JSF-JPA"/>
     </library>
     <library class="facelet">
      <id class="model-object"
-      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/ui.taglib.xml" project="12-JSF-WebServiceSOAP"/>
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/ui.taglib.xml" project="17-JSF-JPA"/>
     </library>
    </libraries>
   </path>
@@ -106,22 +106,38 @@
    <linked-el length="33" name="%0" offset="1279" path="%1"/>
    <linked-el length="37" name="%0" offset="805" path="%1"/>
    <linked-el length="32" name="%2" offset="602" path="%1"/>
+   <linked-el length="16" name="%2" offset="858" path="%3"/>
+   <linked-el length="23" name="%2" offset="1038" path="%3"/>
+   <linked-el length="22" name="%2" offset="652" path="%3"/>
+   <linked-el length="24" name="%2" offset="561" path="%3"/>
    <linked-el length="33" name="%2" offset="1072" path="%1"/>
    <linked-el length="33" name="%2" offset="1279" path="%1"/>
+   <linked-el length="23" name="%2" offset="741" path="%3"/>
    <linked-el length="37" name="%2" offset="805" path="%1"/>
-   <linked-el length="32" name="%3" offset="602" path="%1"/>
-   <linked-el length="27" name="%3" offset="1431" path="%1"/>
-   <linked-el length="33" name="%3" offset="1072" path="%1"/>
-   <linked-el length="33" name="%3" offset="1279" path="%1"/>
-   <linked-el length="37" name="%3" offset="805" path="%1"/>
+   <linked-el length="32" name="%4" offset="602" path="%1"/>
+   <linked-el length="27" name="%4" offset="1431" path="%1"/>
+   <linked-el length="33" name="%4" offset="1072" path="%1"/>
+   <linked-el length="33" name="%4" offset="1279" path="%1"/>
+   <linked-el length="37" name="%4" offset="805" path="%1"/>
+   <linked-el length="33" name="%5" offset="445" path="%3"/>
+   <linked-el length="16" name="%6" offset="858" path="%3"/>
+   <linked-el length="33" name="%6" offset="445" path="%3"/>
+   <linked-el length="23" name="%6" offset="1038" path="%3"/>
+   <linked-el length="22" name="%6" offset="652" path="%3"/>
+   <linked-el length="24" name="%6" offset="561" path="%3"/>
+   <linked-el length="23" name="%6" offset="741" path="%3"/>
   </el>
  </validation>
  <aliases>
   <alias
    path="/17-JSF-JPA/src/br/com/fiap/managedbeans/CongressoMB.java" value="%0"/>
+  <alias path="/17-JSF-JPA/WebContent/lista.xhtml" value="%3"/>
   <alias path="/17-JSF-JPA/src/br/com/fiap/entity/Congresso.java" value="%2"/>
-  <alias path="congressoMB" value="%3"/>
+  <alias path="congressoMB" value="%4"/>
   <alias path="/17-JSF-JPA/WebContent/cadastro.xhtml" value="%1"/>
+  <alias
+   path="/17-JSF-JPA/src/br/com/fiap/managedbeans/ListaCongressoMB.java" value="%5"/>
+  <alias path="listaCongressoMB" value="%6"/>
  </aliases>
  <includes/>
  <uris>

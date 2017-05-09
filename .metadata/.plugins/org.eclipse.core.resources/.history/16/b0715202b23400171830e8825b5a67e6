@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:h="http://java.sun.com/jsf/html">
+
+	<ui:composition template="_template.xhtml">
+		<ui:define name="conteudo">
+			<h1>Lista de congressos</h1>
+			<h:dataTable value="#{listaCongressoMB.congressos}" var="c" styleClass="table">
+				<h:column>
+					<f:facet name="header"></f:facet>
+					#{c.codigo}
+				</h:column>
+				<h:column>
+					<f:facet name="header"></f:facet>
+					#{c.tema}
+				</h:column>
+				<h:column>
+					<f:facet name="header"></f:facet>
+					#{c.local}
+				</h:column>
+				<h:column>
+					<f:facet name="header"></f:facet>
+					<h:outputText value="">
+						<f:pattern="dd/MM/yyyy"></f:convertDateTime>
+					</h:outputText>
+				</h:column>
+				<h:column>
+					<f:facet name="header"></f:facet>
+					#{c.valor}
+				</h:column>
+			</h:dataTable>
+		</ui:define>
+	</ui:composition>
+</html>

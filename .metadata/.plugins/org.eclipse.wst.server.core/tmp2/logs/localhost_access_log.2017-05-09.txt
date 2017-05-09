@@ -1,0 +1,10 @@
+127.0.0.1 - - [09/May/2017:09:13:51 -0300] "GET / HTTP/1.1" 404 1000
+0:0:0:0:0:0:0:1 - - [09/May/2017:09:16:39 -0300] "GET /17-JSF-JPA/faces/cadastro HTTP/1.1" 500 2972
+0:0:0:0:0:0:0:1 - - [09/May/2017:09:16:39 -0300] "GET /favicon.ico HTTP/1.1" 404 1022
+0:0:0:0:0:0:0:1 - - [09/May/2017:09:16:48 -0300] "GET /17-JSF-JPA/faces/cadastro.xhtml HTTP/1.1" 200 1563
+0:0:0:0:0:0:0:1 - - [09/May/2017:09:16:48 -0300] "GET /17-JSF-JPA/faces/javax.faces.resource/bootstrap.min.css;jsessionid=D79639FC8369505D76A08FA3EBEEA480?ln=css HTTP/1.1" 200 121330
+0:0:0:0:0:0:0:1 - - [09/May/2017:09:16:54 -0300] "GET /17-JSF-JPA/faces/listaxhtml HTTP/1.1" 500 2126
+0:0:0:0:0:0:0:1 - - [09/May/2017:09:16:57 -0300] "GET /17-JSF-JPA/faces/lista.xhtml HTTP/1.1" 500 4836
+127.0.0.1 - - [09/May/2017:09:21:55 -0300] "GET / HTTP/1.1" 404 1000
+0:0:0:0:0:0:0:1 - - [09/May/2017:09:22:21 -0300] "GET /17-JSF-JPA/faces/lista.xhtml HTTP/1.1" 200 555
+0:0:0:0:0:0:0:1 - - [09/May/2017:09:22:21 -0300] "GET /17-JSF-JPA/faces/javax.faces.resource/bootstrap.min.css?ln=css HTTP/1.1" 200 121330
