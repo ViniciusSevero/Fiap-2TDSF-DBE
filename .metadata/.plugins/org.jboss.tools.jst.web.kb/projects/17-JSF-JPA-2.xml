@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/logonrm/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/jaspic-api.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/servlet-api.jar"/>
+  <path value="C:/Users/logonrm/.m2/repository/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/tomcat-i18n-es.jar"/>
+  <path value="C:/Users/logonrm/.m2/repository/com/sun/faces/jsf-api/2.2.14/jsf-api-2.2.14.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/tomcat-util.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/catalina.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/el-api.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/catalina-tribes.jar"/>
+  <path value="C:/Users/logonrm/.m2/repository/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar"/>
+  <path value="C:/Users/logonrm/.m2/repository/com/fasterxml/classmate/1.3.0/classmate-1.3.0.jar"/>
+  <path value="C:/Users/logonrm/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/catalina-ha.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/jasper.jar"/>
+  <path value="C:/Users/logonrm/.m2/repository/com/sun/faces/jsf-impl/2.2.14/jsf-impl-2.2.14.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/meta-inf/html_basic.tld" project="12-JSF-WebServiceSOAP"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/meta-inf/jsf_core.tld" project="12-JSF-WebServiceSOAP"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/meta-inf/mojarra_ext.taglib.xml" project="12-JSF-WebServiceSOAP"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/meta-inf/mojarra_ext.tld" project="12-JSF-WebServiceSOAP"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/composite.taglib.xml" project="12-JSF-WebServiceSOAP"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/facelets_jsf_core.taglib.xml" project="12-JSF-WebServiceSOAP"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/html_basic.taglib.xml" project="12-JSF-WebServiceSOAP"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/jstl-core.taglib.xml" project="12-JSF-WebServiceSOAP"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/jstl-fn.taglib.xml" project="12-JSF-WebServiceSOAP"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/mojarra_ext.taglib.xml" project="12-JSF-WebServiceSOAP"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.2.14.jar/com/sun/faces/metadata/taglib/ui.taglib.xml" project="12-JSF-WebServiceSOAP"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/opensource/ApacheTomcat9/lib/tomcat-i18n-ja.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/tomcat-websocket.jar"/>
+  <path value="C:/Users/logonrm/.m2/repository/org/hibernate/hibernate-core/5.2.7.Final/hibernate-core-5.2.7.Final.jar"/>
+  <path value="C:/Users/logonrm/.m2/repository/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/tomcat-jdbc.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/tomcat-jni.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/tomcat-util-scan.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/ecj-4.6.1.jar"/>
+  <path value="C:/Users/logonrm/.m2/repository/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/jsp-api.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/websocket-api.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/tomcat-dbcp.jar"/>
+  <path value="C:/Users/logonrm/.m2/repository/org/jboss/jandex/2.0.3.Final/jandex-2.0.3.Final.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/tomcat-i18n-fr.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/tomcat-api.jar"/>
+  <path value="C:/Users/logonrm/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/jasper-el.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/catalina-ant.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/annotations-api.jar"/>
+  <path value="C:/opensource/ApacheTomcat9/lib/catalina-storeconfig.jar"/>
+  <path value="C:/Users/logonrm/.m2/repository/jstl/jstl/1.2/jstl-1.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0-rt.tld" project="17-JSF-JPA-2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0.tld" project="17-JSF-JPA-2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c.tld" project="17-JSF-JPA-2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0-rt.tld" project="17-JSF-JPA-2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0.tld" project="17-JSF-JPA-2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt.tld" project="17-JSF-JPA-2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fn.tld" project="17-JSF-JPA-2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/permittedtaglibs.tld" project="17-JSF-JPA-2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/scriptfree.tld" project="17-JSF-JPA-2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0-rt.tld" project="17-JSF-JPA-2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0.tld" project="17-JSF-JPA-2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql.tld" project="17-JSF-JPA-2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0-rt.tld" project="17-JSF-JPA-2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0.tld" project="17-JSF-JPA-2"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x.tld" project="17-JSF-JPA-2"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="/17-JSF-JPA-2/WebContent/WEB-INF/faces-config.xml">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/WEB-INF/faces-config.xml" project="17-JSF-JPA-2"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/opensource/ApacheTomcat9/lib/tomcat-coyote.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.jsf.core"/>
+  <el>
+   <linked-el length="40" name="%0" offset="934" path="%1"/>
+   <linked-el length="35" name="%0" offset="744" path="%1"/>
+   <linked-el length="40" name="%0" offset="1704" path="%1"/>
+   <linked-el length="79" name="%0" offset="396" path="%1"/>
+   <linked-el length="36" name="%0" offset="604" path="%1"/>
+   <linked-el length="36" name="%0" offset="1211" path="%1"/>
+   <linked-el length="32" name="%0" offset="1518" path="%1"/>
+   <linked-el length="36" name="%0" offset="1405" path="%1"/>
+   <linked-el length="29" name="%0" offset="1242" path="%2"/>
+   <linked-el length="40" name="%3" offset="496" path="%2"/>
+   <linked-el length="42" name="%3" offset="1474" path="%2"/>
+   <linked-el length="16" name="%4" offset="918" path="%2"/>
+   <linked-el length="40" name="%4" offset="496" path="%2"/>
+   <linked-el length="21" name="%4" offset="802" path="%2"/>
+   <linked-el length="42" name="%4" offset="1474" path="%2"/>
+   <linked-el length="7" name="%4" offset="1228" path="%2"/>
+   <linked-el length="20" name="%4" offset="621" path="%2"/>
+   <linked-el length="21" name="%4" offset="711" path="%2"/>
+   <linked-el length="33" name="%5" offset="1145" path="%6"/>
+   <linked-el length="33" name="%5" offset="1257" path="%6"/>
+   <linked-el length="28" name="%5" offset="685" path="%6"/>
+   <linked-el length="33" name="%5" offset="534" path="%7"/>
+   <linked-el length="37" name="%5" offset="878" path="%6"/>
+   <linked-el length="39" name="%5" offset="1438" path="%7"/>
+   <linked-el length="30" name="%5" offset="550" path="%6"/>
+   <linked-el length="23" name="%5" offset="1212" path="%7"/>
+   <linked-el length="20" name="%8" offset="882" path="%7"/>
+   <linked-el length="33" name="%8" offset="1145" path="%6"/>
+   <linked-el length="28" name="%8" offset="685" path="%6"/>
+   <linked-el length="37" name="%8" offset="878" path="%6"/>
+   <linked-el length="39" name="%8" offset="1438" path="%7"/>
+   <linked-el length="30" name="%8" offset="550" path="%6"/>
+   <linked-el length="20" name="%8" offset="652" path="%7"/>
+   <linked-el length="25" name="%8" offset="748" path="%7"/>
+   <linked-el length="16" name="%9" offset="918" path="%2"/>
+   <linked-el length="40" name="%9" offset="934" path="%1"/>
+   <linked-el length="21" name="%9" offset="802" path="%2"/>
+   <linked-el length="42" name="%9" offset="1474" path="%2"/>
+   <linked-el length="35" name="%9" offset="744" path="%1"/>
+   <linked-el length="40" name="%9" offset="1704" path="%1"/>
+   <linked-el length="20" name="%9" offset="621" path="%2"/>
+   <linked-el length="79" name="%9" offset="396" path="%1"/>
+   <linked-el length="36" name="%9" offset="604" path="%1"/>
+   <linked-el length="21" name="%9" offset="711" path="%2"/>
+   <linked-el length="36" name="%9" offset="1211" path="%1"/>
+   <linked-el length="36" name="%9" offset="1405" path="%1"/>
+   <linked-el length="20" name="%10" offset="882" path="%7"/>
+   <linked-el length="33" name="%10" offset="1145" path="%6"/>
+   <linked-el length="33" name="%10" offset="1257" path="%6"/>
+   <linked-el length="28" name="%10" offset="685" path="%6"/>
+   <linked-el length="33" name="%10" offset="534" path="%7"/>
+   <linked-el length="37" name="%10" offset="878" path="%6"/>
+   <linked-el length="7" name="%10" offset="1198" path="%7"/>
+   <linked-el length="39" name="%10" offset="1438" path="%7"/>
+   <linked-el length="30" name="%10" offset="550" path="%6"/>
+   <linked-el length="20" name="%10" offset="652" path="%7"/>
+   <linked-el length="25" name="%10" offset="748" path="%7"/>
+   <linked-el length="23" name="%10" offset="1212" path="%7"/>
+   <linked-el length="40" name="%11" offset="934" path="%1"/>
+   <linked-el length="35" name="%11" offset="744" path="%1"/>
+   <linked-el length="40" name="%11" offset="1704" path="%1"/>
+   <linked-el length="79" name="%11" offset="396" path="%1"/>
+   <linked-el length="36" name="%11" offset="604" path="%1"/>
+   <linked-el length="36" name="%11" offset="1211" path="%1"/>
+   <linked-el length="32" name="%11" offset="1518" path="%1"/>
+   <linked-el length="36" name="%11" offset="1405" path="%1"/>
+   <linked-el length="29" name="%11" offset="1242" path="%2"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="/17-JSF-JPA-2/WebContent/cadastro-congresso.xhtml" value="%1"/>
+  <alias path="/17-JSF-JPA-2/src/br/com/fiap/bean/CongressoBean.java" value="%0"/>
+  <alias path="/17-JSF-JPA-2/WebContent/lista-palestrante.xhtml" value="%7"/>
+  <alias path="/17-JSF-JPA-2/src/br/com/fiap/entity/Congresso.java" value="%9"/>
+  <alias
+   path="/17-JSF-JPA-2/src/br/com/fiap/bean/ListaCongressoBean.java" value="%3"/>
+  <alias path="palestranteBean" value="%10"/>
+  <alias path="listaCongressoBean" value="%4"/>
+  <alias path="/17-JSF-JPA-2/WebContent/lista-congresso.xhtml" value="%2"/>
+  <alias path="/17-JSF-JPA-2/WebContent/cadastro-palestrante.xhtml" value="%6"/>
+  <alias path="/17-JSF-JPA-2/src/br/com/fiap/bean/PalestranteBean.java" value="%5"/>
+  <alias path="/17-JSF-JPA-2/src/br/com/fiap/entity/Palestrante.java" value="%8"/>
+  <alias path="congressoBean" value="%11"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsf/core">
+   <prefix>f</prefix>
+  </uri>
+  <uri value="http://java.sun.com/jsf/html">
+   <prefix>h</prefix>
+  </uri>
+ </uris>
+</kb-project>

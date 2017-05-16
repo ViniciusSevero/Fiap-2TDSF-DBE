@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:h="http://java.sun.com/jsf/html">
+
+	<ui:composition template="_template.xhtml">
+	
+	<ui:define name="conteudo">
+		<h1>Lista de Palestrantes</h1>
+		<h:messages errorClass="alert alert-danger"
+					infoClass="alert alert-success"/>
+		<h:dataTable value="#{palestranteBean.lista}" 
+				var="p" styleClass="table">
+			<h:column>
+				<f:facet name="header">Nome</f:facet>
+				#{p.nome}
+			</h:column>
+			<h:column>
+				<f:facet name="header">Valor Hora:</f:facet>
+				#{p.valorHora}
+			</h:column>
+			<h:column>
+				<f:facet name="header">Data de Nascimento</f:facet>
+				<h:outputText value="#{p.dataNasc.time}">
+					<f:convertDateTime pattern="dd/MM/yyyy"/>
+				</h:outputText>
+			</h:column>
+		<h:column>
+			<!-- Não esquecer do form -->
+			<h:form>		
+				<h:commandButton action="cadastro-palestrante" value="Alterar" styleClass="btn btn-primary btn-sm">
+					<f:setPropertyActionListener value="#{p}" target="#{palestranteBean.p}" />
+					<span class="glyphicon glyphicon-edit"></span>
+				</h:commandButton>		
+			</h:form>
+		</h:column>
+		<h:column>
+			<!-- Não esquecer do form -->
+			<h:form>		
+				<h:commandButton action="#{palestranteBean.excluir(p.codigo)}" value="Excluir" 
+				styleClass="btn btn-danger btn-sm" style="margin-left:10px;" >
+					<span class="glyphicon glyphicon-remove"></span>
+				</h:commandButton>		
+			</h:form>
+		</h:column>
+		</h:dataTable>
+	</ui:define>
+	</ui:composition>
+</html>
